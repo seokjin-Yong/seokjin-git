@@ -1,2 +1,0 @@
-content 2 from master.
-content 2 from master 2.
