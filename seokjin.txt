@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 Are you seokjin?
 I'm soekjin
-=======
-I'm soekjin
->>>>>>> dfd9c9f7e52d988ba8bb667e4ac2593ca8e66a54
+
